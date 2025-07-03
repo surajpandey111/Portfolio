@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-community
+google-generativeai
+faiss-cpu
+sentence-transformers
