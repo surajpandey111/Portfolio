@@ -1,4 +1,4 @@
-Hi, I am Suraj Kumar Pandey, a polymathic AI/ML and full-stack developer. I am the founder of Gyanm: The DeepAI, India's first AI productivity platform built for text, code, and image generation to boost daily work. Try it at https://researchai-qpt.onrender.com/. I am pursuing B.Tech in Information Technology at Government Engineering College Azamgarh, and BS Data Science at IIT Madras.
+Hi, I am Suraj Kumar Pandey, a polymathic AI/ML and full-stack developer. I am the founder of Gyanm: The DeepAI(now AI-Hub Multi-Domain) is website https://ai-hub-multidomain.onrender.com/ , India's first AI productivity platform built for text, code, and image generation to boost daily work. Try it at https://researchai-qpt.onrender.com/. I am pursuing B.Tech in Information Technology at Government Engineering College Azamgarh, and BS Data Science at IIT Madras.
 
 My skills include:
 - Artificial Intelligence
@@ -96,5 +96,6 @@ My contact details are:
   - YOLO Object Detection: https://voutu.be/iovlhRblovk
   - Natural Disaster Predictor: https://voutu.be/_qnomzwuHgg
   - Diabetes Prediction System: https://voutu.be/F12Mptzyw7o
+
 
 My mission is to create ethical, production-ready, and impactful AI systems that transform daily work, society, and future research with the power of open collaboration.
